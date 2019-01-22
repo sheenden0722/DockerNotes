@@ -28,3 +28,10 @@
 [使用 Dockerfile 快速构建镜像](./%E7%AC%AC8%E7%AB%A0%20%E4%BD%BF%E7%94%A8%20Dockerfile%20%E5%88%9B%E5%BB%BA%E9%95%9C%E5%83%8F.md#从一个简单的-dockfile-开始创建一个镜像并启动容器)
 
 [Docker 三剑客 Docker-Compose](./Docker%20%E4%B8%89%E5%89%91%E5%AE%A2%20Compose.md)
+
+
+
+### 【注】Docker 命令结构图
+
+![](./images/Docker命令结构图.jpg)
+
