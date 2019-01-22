@@ -33,5 +33,5 @@
 
 ### 【注】Docker 命令结构图
 
-![](./images/Docker命令结构图.jpg)
+![](./images/Docker命令结构图.png)
 
