@@ -17,12 +17,13 @@
 
 
 [容器](./%E7%AC%AC4%E7%AB%A0%20%E5%AE%B9%E5%99%A8.md)
-1. [创建容器](./%E7%AC%AC4%E7%AB%A0%20%E5%AE%B9%E5%99%A8.md)
-2. [进入容器](./%E7%AC%AC4%E7%AB%A0%20%E5%AE%B9%E5%99%A8.md#42-进入容器)
+1. [创建容器 docker run](./%E7%AC%AC4%E7%AB%A0%20%E5%AE%B9%E5%99%A8.md)
+2. [进入容器 docker exec](./%E7%AC%AC4%E7%AB%A0%20%E5%AE%B9%E5%99%A8.md#42-进入容器)
 3. [退出容器](./%E7%AC%AC4%E7%AB%A0%20%E5%AE%B9%E5%99%A8.md#43-退出容器)
-4. [终止容器](./%E7%AC%AC4%E7%AB%A0%20%E5%AE%B9%E5%99%A8.md#44-终止容器)
-5. [导出容器](./%E7%AC%AC4%E7%AB%A0%20%E5%AE%B9%E5%99%A8.md#45-导出容器)
-6. [从宿主机拷贝文件到容器](./%E7%AC%AC4%E7%AB%A0%20%E5%AE%B9%E5%99%A8.md#46-从宿主机拷贝文件到容器)
+4. [终止容器 docker stop](./%E7%AC%AC4%E7%AB%A0%20%E5%AE%B9%E5%99%A8.md#44-终止容器)
+5. [删除容器 docker rm](./%E7%AC%AC4%E7%AB%A0%20%E5%AE%B9%E5%99%A8.md#45-删除容器)
+6. [导出容器 docker export](./%E7%AC%AC4%E7%AB%A0%20%E5%AE%B9%E5%99%A8.md#46-导出容器)
+7. [从宿主机拷贝文件到容器 docker cp](./%E7%AC%AC4%E7%AB%A0%20%E5%AE%B9%E5%99%A8.md#47-从宿主机拷贝文件到容器)
 
 [数据卷](./%E7%AC%AC6%E7%AB%A0%20Docker%20%E6%95%B0%E6%8D%AE%E7%AE%A1%E7%90%86.md)
 
