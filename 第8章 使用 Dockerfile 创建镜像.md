@@ -68,7 +68,7 @@ Dockerflle 主体内容分为四部分：
 ▶ **USER** 
 
 指定运行容器时的用户名或UID,后续 RUN 等命令也会使用指定的用户身份
->> USER 
+>> USER root
 
 ---
 
